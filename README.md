@@ -4,3 +4,5 @@ Please find the test cases written in playwright typescript below:
 3. Verify running existing sample code
 4. Verify side bar menu
 5. Expand coding ground
+
+   Note: Test Report is attached for reference
